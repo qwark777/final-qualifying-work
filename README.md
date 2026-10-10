@@ -13,11 +13,11 @@
     </tr>
     <tr>
         <td align="left"> <b> Consultant </b> </td>
-        <td> Дюкова Елена Всеволодовна, PhD/DSc </td>
+        <td> Дюкова Елена Всеволодовна, DSc </td>
     </tr>
     <tr>
         <td align="left"> <b> Advisor </b> </td>
-        <td> Дюкова Елена Всеволодовна, PhD/DSc </td>
+        <td> Дюкова Елена Всеволодовна, DSc </td>
     </tr>
 </table>
 
